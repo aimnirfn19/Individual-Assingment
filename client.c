@@ -5,10 +5,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <sys/types.h>
-#include <netinet/in.h>
 #include <netdb.h>
-
-//#define PORT 8888
 
 int main(int argc , char *argv[])
 {
