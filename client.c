@@ -5,7 +5,6 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <sys/types.h>
-#include <netinet/in.h>
 #include <netdb.h>
 
 int main(int argc , char *argv[])
